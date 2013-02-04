@@ -1,4 +1,3 @@
-HTML-snippets
-=============
+HTML snippets of code
 
-Snippets of various HTML &amp; CSS things I try out from time to time. Experiments not production!
+A few random test of HTML and CSS3 Related experiments.
